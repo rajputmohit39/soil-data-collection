@@ -15,6 +15,7 @@ soil types:
 6.laterite soil
 7.peaty soil
 8.saline soil
+9.black soil
 
 🧑‍🌾 Applications:
 
