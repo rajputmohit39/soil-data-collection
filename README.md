@@ -27,15 +27,6 @@ Fertilizer recommendation and land management
 
 Policy planning for sustainable agriculture
 
-📌 Target Users:
-
-Farmers of Gujarat
-
-Agronomists and soil scientists
-
-Agri-tech startups and researchers
-
-Government agriculture departments
 
 🔍 Technical Details:
 
@@ -45,7 +36,7 @@ Language: Column names in English
 
 Source: Collected from Gujarat State Agriculture Department / Private Soil Testing Labs
 
-License: CC BY 4.0 – Free to use with attribution
+License: CC BY 4.0 
 
 📥 How to Use:
 
